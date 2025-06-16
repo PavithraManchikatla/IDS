@@ -1,5 +1,7 @@
 **🔐 Intrusion Detection System (IDS) Using Decision Tree**
+
 **📌 Project Overview**
+
 This project is a Machine Learning-based Intrusion Detection System (IDS) that detects malicious network traffic using the KDD Cup 99 dataset. It uses a Decision Tree Classifier to classify network activity as either normal or an attack, and further identifies the specific type of attack. The IDS is deployed through a user-friendly Flask web application, allowing users to enter network parameters and get predictions in real-time.
 
 **🎯 Objectives**
